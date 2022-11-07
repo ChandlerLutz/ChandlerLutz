@@ -1,5 +1,11 @@
 Hi, I'm [Chandler Lutz](https://chandlerlutz.github.io/), a financial economist at the U.S. Securities and Exchange Commission in the Division of Economic and Risk Analysis (DERA). I am also a research fellow at the UCLA Ziman Center for Real Estate. My research employs econometric, statistical, and machine learning methods in the study of housing markets, labor economics, and monetary policy.
 
+ In recent work, I have developed [new datasets](https://github.com/ChandlerLutz/LandUnavailabilityData) that measure the amount of [land unavailable for housing construction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3478900) across the United States and causally assessed the impact of [interest rate declines on distressed borrowers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3869199). My research has been published in the [*Review of Financial Studies*](https://academic.oup.com/rfs/article-abstract/34/2/864/5842150), the [*Journal of Labor Economics*](https://www.journals.uchicago.edu/doi/abs/10.1086/703579), and the [*Journal of Urban Economics*](https://www.sciencedirect.com/science/article/abs/pii/S0094119016300419), among other outlets. My policy work at the SEC spans housing markets as well as financial risk and macroeconomic analysis. 
+
+
+* [Publications](https://chandlerlutz.github.io/publications/) and [Working Papers](https://chandlerlutz.github.io/working/)
+* [CV](https://chandlerlutz.github.io/cv/), [Google Scholar](https://scholar.google.com/citations?hl=en&user=iAQIMbUAAAAJ&view_op=list_works&alert_preview_top_rm=2&sortby=pubdate), and [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1837937)
+
 ## Working Papers
 
 * [The Impact of Crisis-Period Interest Rate Declines on Distressed Borrowers](https://chandlerlutz.github.io/files/The%20Impact%20of%20Crisis-Period%20Interest%20Rate%20Declines%20on%20Distressed%20Borrowers.pdf)
